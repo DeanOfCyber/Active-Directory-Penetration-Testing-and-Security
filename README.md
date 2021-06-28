@@ -1,11 +1,13 @@
 # Active Directory Penetration Testing and Security
 Resources for AD penetration testing and security
 
-## Videos
+## Videos by yours truly
 
-Coming soon...
+https://www.youtube.com/watch?v=3GvcfQSOj5E
 
-# Pentest/Red Team General
+More coming soon...
+
+## Pentest/Red Team General
 https://zer1t0.gitlab.io/posts/attacking_ad/
 
 https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70  
@@ -21,7 +23,7 @@ https://adsecurity.org/?p=2362
 https://www.blackhat.com/docs/us-15/materials/us-15-Metcalf-Red-Vs-Blue-Modern-Active-Directory-Attacks-Detection-And-Protection.pdf
 
 
-# General Active Directory Concepts 
+## General Active Directory Concepts 
 
 https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview 
 
@@ -38,7 +40,7 @@ https://docs.microsoft.com/en-US/troubleshoot/windows-server/identity/security-i
 https://adsecurity.org/?p=2288  
 
 
-# Active Directory Enumeration 
+## Active Directory Enumeration 
 
 http://woshub.com/get-aduser-getting-active-directory-users-data-via-powershell/ 
 
@@ -47,8 +49,7 @@ http://www.harmj0y.net/blog/redteaming/local-group-enumeration/
 https://www.sans.org/security-resources/posters/bloodhound-cheat-sheet/430/download
 
 
-
-# Authentication Attacks
+## Authentication Attacks
 **NTLM**
 
 https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/  
@@ -89,18 +90,18 @@ https://en.hackndo.com/remote-lsass-dump-passwords/#mimikatz-module
 https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/
 
 
-# Lateral Movement 
+## Lateral Movement 
 https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f  
 
 https://blog.ropnop.com/using-credentials-to-own-windows-boxes-part-3-wmi-and-winrm/ 
 
 
-# ACLs
+## ACLs
 
 https://www.blackhat.com/docs/us-17/wednesday/us-17-Robbins-An-ACE-Up-The-Sleeve-Designing-Active-Directory-DACL-Backdoors-wp.pdf
 
 
-# Lab Setup
+## Lab Setup
 https://github.com/WazeHell/vulnerable-AD  
 
 https://thedarksource.com/setting-up-an-active-directory-lab-for-red-teaming/  
