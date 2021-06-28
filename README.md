@@ -1,6 +1,10 @@
 # Active Directory Penetration Testing and Security
 Resources for AD penetration testing and security
 
+## Videos
+
+Coming soon...
+
 # Pentest/Red Team General
 https://zer1t0.gitlab.io/posts/attacking_ad/
 
