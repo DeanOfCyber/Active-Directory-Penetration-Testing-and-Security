@@ -53,6 +53,7 @@ https://infinitelogins.com/2020/11/16/capturing-relaying-net-ntlm-hashes-without
 
 
 **Kerberos Attacks**
+
 https://blog.redforce.io/windows-authentication-attacks-part-2-kerberos/  
 
 https://www.blackhat.com/docs/us-14/materials/us-14-Duckwall-Abusing-Microsoft-Kerberos-Sorry-You-Guys-Don't-Get-It-wp.pdf  
@@ -68,11 +69,13 @@ https://stealthbits.com/blog/how-to-detect-pass-the-ticket-attacks/
 https://book.hacktricks.xyz/windows/active-directory-methodology/over-pass-the-hash-pass-the-key
 
 **Password Spraying**
+
 https://github.com/dafthack/DomainPasswordSpray 
 
 https://medium.com/walmartglobaltech/windows-for-loop-password-spraying-made-easy-c8cd4ebb86b5 
 
 **Mimikatz**
+
 https://www.sentinelone.com/blog/windows-security-essentials-preventing-4-common-methods-of-credentials-exfiltration/  
 
 https://ivanitlearning.wordpress.com/2019/09/07/mimikatz-and-password-dumps/
