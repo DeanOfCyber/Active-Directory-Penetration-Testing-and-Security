@@ -31,6 +31,12 @@ https://docs.microsoft.com/en-us/windows/security/identity-protection/access-con
 https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/  
 
 
+#ACLs
+
+**An Ace Up The Sleeve**
+
+https://www.blackhat.com/docs/us-17/wednesday/us-17-Robbins-An-ACE-Up-The-Sleeve-Designing-Active-Directory-DACL-Backdoors-wp.pdf
+
 # Kerberos Attacks
 https://blog.redforce.io/windows-authentication-attacks-part-2-kerberos/  
 
