@@ -31,7 +31,7 @@ https://docs.microsoft.com/en-us/windows/security/identity-protection/access-con
 https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/  
 
 
-#ACLs
+# ACLs
 
 **An Ace Up The Sleeve**
 
