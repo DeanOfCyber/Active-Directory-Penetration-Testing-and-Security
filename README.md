@@ -3,7 +3,15 @@ Resources for AD penetration testing and security
 
 ## Videos by yours truly
 
+Setup Domain Controller and Active Directory For Penetration Testing
+https://www.youtube.com/watch?v=j5AI-BKXmCw
+
+Create and configure domain accounts for multiple password attacks
+https://www.youtube.com/watch?v=MigPswiQFOg
+
+Kerberos AS-REP Roasting with HTB Sauna
 https://www.youtube.com/watch?v=3GvcfQSOj5E
+
 
 More coming soon...
 
